@@ -6,6 +6,6 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
 2.  Photoresister: or also known as Light-Dependent Resistor (LDR) is a resistor which varies the resistance based on the amount of light. This project involves a circuit that lights an LED when it is sufficiently dark in a room. I demonstrate the circuit by covering the photoresistor to simulate darkness, available at [Youtube](https://www.youtube.com/watch?v=hIxY1L2sM7U)
 
 3. EEPROM: A sketch that allows a user to access data in built-in EEPROM using the serial monitor. In the serial monitor the user type one of two commands: “read” and “write”. 
-    - "read" takes one argument, an EEPROM address. "Write" takes two arguments, an EEPROM address and a value. For example, if the user types “read 3” then the contents of EEPROM address 3 should be printed to the serial monitor. 
+    - "read" takes one argument, an EEPROM address. "For example, if the user types “read 3” then the contents of EEPROM address 3 should be printed to the serial monitor. 
 
-    - If the user types “write 3 10” then the value 10 should be written into address 3 of the EEPROM.
+    - "write" takes two arguments, an EEPROM address and a value.  If the user types “write 3 10” then the value 10 should be written into address 3 of the EEPROM.
