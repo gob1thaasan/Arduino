@@ -12,7 +12,7 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
 
 
 
-##References
+## References
 
 1. [Arduino Laguage Reference](https://www.arduino.cc/reference/en)
 2. [Arduino Libraries](https://www.arduino.cc/en/Reference/Libraries) 
@@ -23,4 +23,4 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
 7. [Servo Library](https://www.arduino.cc/en/Reference/Servo)
 8. [Ethernet Shield](https://www.arduino.cc/en/Main/ArduinoEthernetShield)
 9. [WiFi Shield](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoWiFiShield)
-10.[Blynk](http://docs.blynk.cc/) 
+10. [Blynk](http://docs.blynk.cc/) 
