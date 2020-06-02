@@ -9,8 +9,8 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
     - "read" takes one argument, an EEPROM address. "For example, if the user types  `read 3` then the contents of EEPROM address 3 should be printed to the serial monitor. 
 
     - "write" takes two arguments, an EEPROM address and a value.  If the user types `write 3 10` then the value 10 should be written into address 3 of the EEPROM.
-
-
+ 
+4. WaterSensor: A sketch where he water sensor will turn on when water is detected.  We have two outputs; the LED and buzzer is turned ON when water is detected and switch OFF when no water is present.
 
 ## References
 
