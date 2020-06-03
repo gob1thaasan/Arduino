@@ -12,7 +12,7 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
  
 4. WaterSensor: A sketch where he water sensor will turn on when water is detected.  We have two outputs; the LED and buzzer is turned ON when water is detected and switch OFF when no water is present.
 
-5. Ultrasonic Sensor: This sketch show the usage of ultrasonic sensor which is a non-contact range detection tool with capability from 2 cm to 400 cm. A buzzer is added to this project, where when the obstacle is between 9cm-11cm, the buzzer is turned on. 
+5. Ultrasonic Sensor: This sketch show the usage of ultrasonic sensor which is a non-contact range detection tool with capability from 2 cm to 400 cm. A buzzer is added to this project, where when the obstacle is between 9cm-11cm, the buzzer is turned on. Demo available at [Youtube](https://youtu.be/QoMn5BVaquU)
 
 ## References
 
