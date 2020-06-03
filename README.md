@@ -10,7 +10,7 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
 
     - "write" takes two arguments, an EEPROM address and a value.  If the user types `write 3 10` then the value 10 should be written into address 3 of the EEPROM.
  
-4. WaterSensor: A sketch where he water sensor will turn on when water is detected.  We have two outputs; the LED and buzzer is turned ON when water is detected and switch OFF when no water is present. Demo available at [Youtube(https://youtu.be/OcxmGYR4IWU)
+4. WaterSensor: A sketch where he water sensor will turn on when water is detected.  We have two outputs; the LED and buzzer is turned ON when water is detected and switch OFF when no water is present. Demo available at [Youtube](https://youtu.be/OcxmGYR4IWU)
 
 5. Ultrasonic Sensor: This sketch show the usage of ultrasonic sensor which is a non-contact range detection tool with capability from 2 cm to 400 cm. A buzzer is added to this project, where when the obstacle is between 9cm-11cm, the buzzer is turned on. Demo available at [Youtube](https://youtu.be/QoMn5BVaquU)
 
