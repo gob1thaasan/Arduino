@@ -15,7 +15,8 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
 5. Ultrasonic Sensor: This sketch show the usage of ultrasonic sensor which is a non-contact range detection tool with capability from 2 cm to 400 cm. A buzzer is added to this project, where when the obstacle is between 9cm-11cm, the buzzer is turned on. Demo available at [Youtube](https://youtu.be/QoMn5BVaquU)
 
 ## References
-
+[Arduino Uno Board Details](https://store.arduino.cc/usa/arduino-uno-rev3)
+[Arduino Due Board Details](https://store.arduino.cc/usa/due)
 1. [Arduino Laguage Reference](https://www.arduino.cc/reference/en)
 2. [Arduino Libraries](https://www.arduino.cc/en/Reference/Libraries) 
 3. [Arduino Shields](https://learn.sparkfun.com/tutorials/arduino-shields)
