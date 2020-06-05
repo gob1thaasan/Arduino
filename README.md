@@ -14,6 +14,8 @@ Simple weekend Arduino UNO project. Each project folder contains a breadboard pi
 
 5. Ultrasonic Sensor: This sketch show the usage of ultrasonic sensor which is a non-contact range detection tool with capability from 2 cm to 400 cm. A buzzer is added to this project, where when the obstacle is between 9cm-11cm, the buzzer is turned on. Demo available at [Youtube](https://youtu.be/QoMn5BVaquU)
 
+6. RelayLamp: to turn on room lamp based on light intensity. This Arduino uno project uses LDR and relay module to control room lamp connected to AC power 240V.  Make sure the Photo-resister is away from the lamp. You can change the LDR with PIR. [Youtube](https://youtu.be/Pyk36gJZEBo) 
+
 ## References
 - [Arduino Uno Board Details](https://store.arduino.cc/usa/arduino-uno-rev3)
 - [Arduino Due Board Details](https://store.arduino.cc/usa/due)
